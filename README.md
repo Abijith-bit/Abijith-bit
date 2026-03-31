@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Abijith P B
 
-<!--
-**Abijith-bit/Abijith-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on: **[Your Project / Tech Stack]**
+- 🌱 I’m currently learning: **Cyber Security**
+- 👯 I’m looking to collaborate on: **[Open Source / Ideas]**
+- 💬 Ask me about: **[Your Expertise]**
+- 📫 How to reach me: **[Email / Social Links]**
+- ⚡ Fun fact: **[Something Interesting About You]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+```bash
+Languages:   [Python, JavaScript, C++, etc.]
+Frontend:    [React, HTML, CSS, etc.]
+Backend:     [Node.js, Django, etc.]
+Database:    [MySQL, MongoDB, etc.]
+Tools:       [Git, Docker, VS Code, etc.]
